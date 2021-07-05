@@ -1,27 +1,32 @@
 h1{
     font-size: 50px;
-    color: gray;
-
-}
+    color: rgb(90, 89, 89);}
 span{
     color: rgb(230, 97, 9);
 }
 .first-section{
     display: flex;
-    padding: 10px;
+    padding right: 10px;
+    padding top: 30px;
 }
 }
 .img{
-    width: 80%;
+    width: 90%;
 }
 .text{
     width: 70%;
     margin-left: 45px;
+    padding-top: 30px;
+    
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(rgb(173, 122, 26), tomato);
-    padding: 10px 40px;
+    background-image: linear-gradient(rgb(236, 157, 11), rgb(243, 135, 116));
+    padding: 15px 30px;
     border-radius: 15px;
     font-weight: 700;
+    color: white;
+}
+strong{
+    color: rgb(168, 166, 166);
 }
