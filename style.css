@@ -1,6 +1,27 @@
 h1{
-    font-size: 40px;
+    font-size: 50px;
+    color: gray;
+
 }
 span{
     color: rgb(230, 97, 9);
+}
+.first-section{
+    display: flex;
+    padding: 10px;
+}
+}
+.img{
+    width: 80%;
+}
+.text{
+    width: 70%;
+    margin-left: 45px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(173, 122, 26), tomato);
+    padding: 10px 40px;
+    border-radius: 15px;
+    font-weight: 700;
 }
