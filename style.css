@@ -1,4 +1,4 @@
-h1{
+.text h1{
     font-size: 50px;
     color: rgb(90, 89, 89);}
 span{
@@ -7,11 +7,13 @@ span{
 .first-section{
     display: flex;
     padding right: 10px;
-    padding top: 30px;
+    padding top: 40px;
 }
 }
 .img{
-    width: 90%;
+    padding-top: 30px;
+    margin-top: 600px;
+    width: 10px
 }
 .text{
     width: 70%;
@@ -32,14 +34,40 @@ strong{
 }
 .second-section{
     display: flex;
-    margin: 25px;
+    padding: 0px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
 }
 .nd-img{
     padding-top: 15px;
-    margin-top: 60px;
+    margin: 80px;
     width: 80%;
 }
 .nd-text{
     margin-top: 100px;
     width: 100%;
+}
+.nd-link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(236, 157, 11), rgb(243, 135, 116));
+    padding: 15px 30px;
+    border-radius: 15px;
+    font-weight: 700;
+    color: white;
+}
+.nd-text p{
+    color: gray;
+}
+h2{
+    font-size: 35px;
+    color: grey;
+}
+.recipe-headline{
+    font-size: 30px;
+    text-align: center;
+    color:gray
+}
+#text{
+    text-align: center;
 }
