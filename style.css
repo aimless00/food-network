@@ -30,3 +30,16 @@ span{
 strong{
     color: rgb(168, 166, 166);
 }
+.second-section{
+    display: flex;
+    margin: 25px;
+}
+.nd-img{
+    padding-top: 15px;
+    margin-top: 60px;
+    width: 80%;
+}
+.nd-text{
+    margin-top: 100px;
+    width: 100%;
+}
