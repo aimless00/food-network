@@ -1,3 +1,27 @@
+ul{
+    margin: 0;
+    padding :0%;
+    list-style: none;
+    height: 40px;
+    line-height: 40px;
+    background-color: rgb(68, 66, 66);
+    
+}
+li{
+    float: left;
+    border-right: 1px solid rgb(173, 173, 214) ;
+    
+    
+}
+a{
+    display: block;
+    padding: 0 30px;
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    background-color: indigo;
+}
 .text h1{
     font-size: 50px;
     color: rgb(90, 89, 89);}
@@ -99,7 +123,7 @@ h2{
 }
 footer{
     text-align: center;
-    background-color: black;
+    background-color: rgb(36, 35, 35);
     color: gray;
     padding: 5px;
     margin-top: 5%;
