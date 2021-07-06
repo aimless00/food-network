@@ -77,12 +77,13 @@ h2{
 }
 .third-section{
     display: flex;
+    padding-top: 3%;
 }.pic1{
     width: 90%;
     padding: 10px;
 }
 .recipe{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 50px gray;
     width: 33%;
     margin-left: 2%;
     margin-right: 2%;
