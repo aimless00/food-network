@@ -70,4 +70,14 @@ h2{
 }
 #text{
     text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    font-size: 18px;
+    color: rgb(66, 64, 64);
+}
+.third-section{
+    display: flex;
+}
+.pic1{
+    width: 100%;
 }
