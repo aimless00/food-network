@@ -97,3 +97,11 @@ h2{
     padding: 10px;
     color: rgb(129, 120, 120);
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: gray;
+    padding: 5px;
+    margin-top: 5%;
+    padding-bottom: 7%;
+}
