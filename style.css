@@ -77,7 +77,21 @@ h2{
 }
 .third-section{
     display: flex;
+}.pic1{
+    width: 90%;
+    padding: 10px;
 }
-.pic1{
-    width: 100%;
+.recipe{
+    box-shadow: 10px 10px 40px gray;
+    width: 33%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.recipe h1{
+    padding: 10px;
+    color: rgb(48, 45, 45);
+}
+.recipe p{
+    padding: 10px;
+    color: rgb(129, 120, 120);
 }
