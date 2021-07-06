@@ -13,7 +13,7 @@ li{
     
     
 }
-a{
+.list{
     display: block;
     padding: 0 30px;
     text-decoration: none;
